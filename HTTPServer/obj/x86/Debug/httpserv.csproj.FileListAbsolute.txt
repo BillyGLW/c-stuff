@@ -1,0 +1,6 @@
+C:\Users\Zyhu\Desktop\SimpleHttpServer\bin\Debug\httpserv.exe
+C:\Users\Zyhu\Desktop\SimpleHttpServer\bin\Debug\httpserv.pdb
+C:\Users\Zyhu\Desktop\SimpleHttpServer\obj\x86\Debug\httpserv.csprojAssemblyReference.cache
+C:\Users\Zyhu\Desktop\SimpleHttpServer\obj\x86\Debug\httpserv.csproj.CoreCompileInputs.cache
+C:\Users\Zyhu\Desktop\SimpleHttpServer\obj\x86\Debug\httpserv.exe
+C:\Users\Zyhu\Desktop\SimpleHttpServer\obj\x86\Debug\httpserv.pdb
